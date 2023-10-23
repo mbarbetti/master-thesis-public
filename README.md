@@ -52,12 +52,12 @@ Are you referring to my research project? Please cite me!
 
 ```bibtex
 @mastersthesis{Barbetti:2826210,
-      author = "Barbetti, Matteo",
-      title  = "{Techniques for parametric simulation with deep neural
-                networks and implementation for the LHCb experiment at CERN
-                and its future upgrades}",
-      school = "University of Florence",
-      year   = "2020",
-      url    = "https://cds.cern.ch/record/2826210",
+    author = "Barbetti, Matteo",
+    title  = "{Techniques for parametric simulation with deep neural
+              networks and implementation for the LHCb experiment at CERN
+              and its future upgrades}",
+    school = "University of Florence",
+    year   = "2020",
+    url    = "https://cds.cern.ch/record/2826210",
 }
 ```
